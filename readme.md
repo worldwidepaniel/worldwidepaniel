@@ -21,7 +21,7 @@ Back-end 👷‍♂️
 General 🧬
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=python&)
+[![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=python&)](https://www.python.org/)
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
 [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
@@ -38,7 +38,7 @@ Tools 🛠
 Other languages/currently learning 📚
 
 ![C/C++](https://img.shields.io/badge/-C/C++-FABFAB?style=flat-square&logo=c&logoColor=white)
-[![Golang](https://img.shields.io/badge/-Golang-ffffff?style=flat-square&logo=go)](https://www.docker.com/)
+[![Golang](https://img.shields.io/badge/-Golang-ffffff?style=flat-square&logo=go)](https://golang.org/)
 
 ---
 ## Feel free to further my knowledge by reviewing my code / guiding towards more efficient solutions 🤓
