@@ -1,7 +1,7 @@
 ### My name is Daniel, nice to meet you! 🙋‍♂️
 ## I study CS in Poznań, and work at the [PSNC](https://www.psnc.pl/) as a fullstack developer
 
-- Right now I'm trying to learn golang to be able to use for backend development <img src="./assets/golang.png">
+- Right now I'm trying to learn golang to be able to use it for backend development <img src="./assets/golang.png">
 - In love with music 🎶, you can find my spotify playlist right [here](https://open.spotify.com/playlist/0x85dXgspDzljIBCnwiFOa?si=df99576bf81741f5), maybe you'll like it
 - Io sono rossonero 🔴⚫ ⚽
 - Always eager to participate in a hackathon 👨‍💻
