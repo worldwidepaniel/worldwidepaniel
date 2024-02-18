@@ -11,7 +11,7 @@
 
 Front-end 🎨
 
-[![React.js](https://img.shields.io/badge/-React.js-34495e?style=flat-square&logo=react.js&logoColor=blue)](https://react.dev/)
+[![React.js](https://shields.io/badge/react-black?logo=react&style=for-the-badge)](https://react.dev/)
 
 Back-end 👷‍♂️
 
