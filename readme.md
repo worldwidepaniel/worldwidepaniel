@@ -27,7 +27,7 @@ General 🧬
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)](https://babeljs.io/)
 [![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat-square&logo=mysql&)](https://www.mysql.com/)
-[![SurrealDB]](https://surrealdb.com/)
+[SurrealDB](https://surrealdb.com/)
 
 Tools 🛠
 
